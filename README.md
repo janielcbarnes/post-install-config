@@ -26,9 +26,10 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt= roles"/>
+<img src="https://i.imgur.com/1J8eGyI.png" height="80%" width="80%" alt="roles"/>
+<p>  
 </p>
-Once logged into the azure portal and remotely connected to virtual machine, we would open the ticket sytem. Once opened you would select the admin panal; agents; then roles. Roles are the permissions granted to the agents of the different department. Here you would create variety of roles such as Admin, Admin Secuirty, or Supreme Admin and then assign the permissions of that role. 
+Once logged into the azure portal and remotely connected to virtual machine, we would open the ticket sytem. Once opened you would select the admin panal> agents> then roles. Roles are the permissions granted to the agents of the different department. Here you would create variety of roles such as Admin, Admin Secuirty, or Supreme Admin and then assign the permissions of that role. 
 </p>
 <br />
 
@@ -36,7 +37,7 @@ Once logged into the azure portal and remotely connected to virtual machine, we 
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+After assigning the permission for the different roles, you would then complete the same steps and create the Departments in the ticket system. We would select admin panal> Agents> and then Departments. We would also do this same process for configuring Teams and Agents. However, when configuiring users it would be slightly different. we would go to Admin Panel>Users> and then Add New.
 </p>
 <br />
 
