@@ -26,7 +26,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 <p>
-<img src= "https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt= roles"/>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt= roles"/>
 </p>
 Once logged into the azure portal and remotely connected to virtual machine, we would open the ticket sytem. Once opened you would select the admin panal; agents; then roles. Roles are the permissions granted to the agents of the different department. Here you would create variety of roles such as Admin, Admin Secuirty, or Supreme Admin and then assign the permissions of that role. 
 </p>
