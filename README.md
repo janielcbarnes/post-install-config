@@ -34,17 +34,17 @@ Once logged into the azure portal and remotely connected to virtual machine, we 
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/G8Kks74.png" height="80%" width="80%" alt="agents"/>
 </p>
 <p>
-After assigning the permission for the different roles, you would then complete the same steps and create the Departments in the ticket system. We would select admin panal> Agents> and then Departments. We would also do this same process for configuring Teams and Agents. However, when configuiring users it would be slightly different. we would go to Admin Panel>Users> and then Add New.
+After assigning the permission for the different roles, you would then complete the same steps and create the Departments in the ticket system. We would select admin panal> Agents> and then Departments. We would also do this same process for configuring Teams and Agents. However, when configuiring Agents it would be slightly different. we would go to Agent Panel>Agents> and then Add New.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/KTNg9Bm.png" height="80%" width="80%" alt="help"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Lastly, after assigning configuration, we would then configure the settings for the users. Here we are determining who will be allowed to create tickets within the organization. We would do this under the admin panal. Once user settings have been configured, we would then configure service level agrrements (SLA) and also the help topics: i.e Password Reset or Equipment request.
 </p>
 <br />
